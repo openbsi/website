@@ -1,2 +1,3 @@
-# website
-The website of OpenBSI
+# openbsi.github.io
+Homepage of OpenBSI
+
